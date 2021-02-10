@@ -1,2 +1,4 @@
-# Ola-Mundo
- Primeiro repositório de versionamento
+# Olá, Mundo
+ Primeiro repositório de versionamento.
+
+ Repositório criado para aprendizado de Git e GitHub!
